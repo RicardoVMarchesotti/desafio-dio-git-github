@@ -1,0 +1,4 @@
+Foi um curso bem equilibrado, entre teoria e prática.
+Foi possível acompanhar tudo repetindo o que o professor fez, os links mais
+importantes para esse curso já estão localizados no README.md do repositório.
+Voltar para as vídeo-aulas em caso de dúvida sobre comandos Git.
