@@ -6,5 +6,5 @@ Primeiro repositório para organizar cursos
 - Praticar ensinamentos adquiridos durante os cursos
 - Registrar informações importantes para eventuais consultas
 ## Links úteis:
-[Comandos Markdown básicos](https://www.markdownguide.org/basic-syntax/)
+[Comandos Markdown básicos](https://www.markdownguide.org/basic-syntax/)  
 [Comandos Markdown avançados](https://www.markdownguide.org/extended-syntax/)
